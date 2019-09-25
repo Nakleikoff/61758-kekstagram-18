@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Е.](http://up.ha.local/javascript/18/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Без`.
 
 ---
 
